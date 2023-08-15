@@ -8,6 +8,7 @@ import utils.TestContextSetup;
 
 public class CheckoutPageStepDefination {
 
+	//This is Step Defination 
 	TestContextSetup testContextSetup;
 	CheckOutPage checkoutPage;
 	public CheckoutPageStepDefination(TestContextSetup testContextSetup) {
